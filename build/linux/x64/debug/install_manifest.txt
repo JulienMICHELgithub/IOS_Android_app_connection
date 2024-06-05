@@ -1,0 +1,14 @@
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/golbut
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/lib/images/google.png
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/lib/images/apple.png
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/julien/git/Perso/golbut/build/linux/x64/debug/bundle/data/flutter_assets/version.json

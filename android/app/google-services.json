@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "688475779734",
+    "project_id": "open-hygiene",
+    "storage_bucket": "open-hygiene.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688475779734:android:f6f96e73278bb33f9c08b7",
+        "android_client_info": {
+          "package_name": "com.example.open_hygiene"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgQCaxcw765O6cEbvPE8H_fKy5UjjoJlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
